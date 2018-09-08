@@ -50,5 +50,7 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Website</key>
+	<string>https://github.com/crowsonkb/scihub-lookup</string>
 </dict>
 </plist>
